@@ -1,0 +1,12 @@
+# 秘密情報（API キーなど）
+.env
+.env.*
+!.env.example
+
+# 依存パッケージ・生成物
+node_modules/
+__pycache__/
+*.pyc
+
+# OS / エディタ
+.DS_Store

@@ -1,0 +1,496 @@
+{
+  "a0f4553cb13c55c63deb960d2318a2d7f74ee62685adcfaf3a55ad67a4778a1e": {
+    "judgments": [
+      {
+        "pPii": 0.83,
+        "piiType": "person_name",
+        "typeConf": 1
+      },
+      {
+        "pPii": 0.49,
+        "piiType": "address",
+        "typeConf": 0.99
+      },
+      {
+        "pPii": 0.91,
+        "piiType": "address",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.39
+  },
+  "d8886126a8ed5323eb097c8bead7ff87441cbc46508a616759eb941c97775ee8": {
+    "judgments": [
+      {
+        "pPii": 0.96,
+        "piiType": "address",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.19
+  },
+  "ba099ed248a52a9c99486f3b1c0fd99c1a0fbbefa0a3ce6d9757fa395c1a83d8": {
+    "judgments": [
+      {
+        "pPii": 0.88,
+        "piiType": "person_name",
+        "typeConf": 1
+      },
+      {
+        "pPii": 0.97,
+        "piiType": "email",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.4
+  },
+  "874c6fc4f87ebc86080f70288ff1091b00173867773e57ca6f0b2944aac0d9e4": {
+    "judgments": [
+      {
+        "pPii": 0.9,
+        "piiType": "person_name",
+        "typeConf": 1
+      },
+      {
+        "pPii": 0.97,
+        "piiType": "phone",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.24
+  },
+  "1f64fd8bd1170da7cca2c8b48ea1ea8ac60873aec6f9bedee6c9e67e75cd9e54": {
+    "judgments": [
+      {
+        "pPii": 0.87,
+        "piiType": "person_name",
+        "typeConf": 0.99
+      },
+      {
+        "pPii": 0.94,
+        "piiType": "birthday",
+        "typeConf": 0.99
+      }
+    ],
+    "pUncovered": 0.36
+  },
+  "4b1c32d38d4541403cc63dafa81c0fcfd00f3a88fdf5761253044f644ac426da": {
+    "judgments": [
+      {
+        "pPii": 0.97,
+        "piiType": "government_id",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.39
+  },
+  "3be813d1506413a37d9dd5cd94e21bfcad06788d55f75d950896185edf76cea3": {
+    "judgments": [
+      {
+        "pPii": 0.86,
+        "piiType": "financial",
+        "typeConf": 0.94
+      }
+    ],
+    "pUncovered": 0.31
+  },
+  "3856786bc779f200ee8281fd8e0cf73085126d30ecafa1060aa05d90bcc7d138": {
+    "judgments": [
+      {
+        "pPii": 0.94,
+        "piiType": "financial",
+        "typeConf": 0.99
+      }
+    ],
+    "pUncovered": 0.31
+  },
+  "4f1af0a0d9e3fcef4d9edf2ef17916b983c3dc78ae58fcc9153b6928564133c9": {
+    "judgments": [
+      {
+        "pPii": 0.87,
+        "piiType": "person_name",
+        "typeConf": 0.99
+      },
+      {
+        "pPii": 0.93,
+        "piiType": "email",
+        "typeConf": 0.99
+      }
+    ],
+    "pUncovered": 0.29
+  },
+  "e3893164c0e944b7dd55e6aa68b5ef58a264bd6fec4d17f0eab9f0ed8038e31b": {
+    "judgments": [
+      {
+        "pPii": 0.94,
+        "piiType": "financial",
+        "typeConf": 0.99
+      }
+    ],
+    "pUncovered": 0.19
+  },
+  "54c01c3fa286e0724753e7eda67f29b74975be690502c6fd0d108359c24d3a34": {
+    "judgments": [
+      {
+        "pPii": 0.95,
+        "piiType": "person_name",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.13
+  },
+  "5dce5bdee2d1106894f3cbf6a093f577238cf59acff6daa3a3ffad1bd3998e0b": {
+    "judgments": [
+      {
+        "pPii": 0.78,
+        "piiType": "person_name",
+        "typeConf": 0.98
+      }
+    ],
+    "pUncovered": 0.2
+  },
+  "70cdf890f6391444a601a2b249625cee9ae9529c87052eb5b0946e395df0c53e": {
+    "judgments": [
+      {
+        "pPii": 0.97,
+        "piiType": "government_id",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.33
+  },
+  "e2859fdaf7c65b01827659115e93193b669a053822f72b56c65559f0ea3af687": {
+    "judgments": [
+      {
+        "pPii": 0.05,
+        "piiType": "not_personal",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.09
+  },
+  "2a085e91ecc4e684ccac6bc28cb547656ba945df4319e8089bdd9152d430094d": {
+    "judgments": [
+      {
+        "pPii": 0.05,
+        "piiType": "not_personal",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.07
+  },
+  "fca7ad2a777868c63e87e0dd8dc8e74fc35d81e4782cc58ad43c3d2a1c9000d5": {
+    "judgments": [
+      {
+        "pPii": 0.09,
+        "piiType": "not_personal",
+        "typeConf": 0.93
+      }
+    ],
+    "pUncovered": 0.14
+  },
+  "0792e20b0b717f3e763a299f36be0c9c6542c67473f9d026f215468e9f3eea5f": {
+    "judgments": [
+      {
+        "pPii": 0.04,
+        "piiType": "not_personal",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.08
+  },
+  "249a39b8333c0aaf450d77be748debf21a38bfe94a65b9cdc470cbcd7f0e4756": {
+    "judgments": [
+      {
+        "pPii": 0.05,
+        "piiType": "not_personal",
+        "typeConf": 1
+      },
+      {
+        "pPii": 0.05,
+        "piiType": "not_personal",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.08
+  },
+  "654ee170d7265af320b062e00ddca69e4c9ebfee5079b735fd9654082b2e7572": {
+    "judgments": [
+      {
+        "pPii": 0.03,
+        "piiType": "not_personal",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.06
+  },
+  "4fa2b2f653a3b0b5fd26998adb21b2dcc03042d0b86eff096e073a68578e3282": {
+    "judgments": [
+      {
+        "pPii": 0.06,
+        "piiType": "not_personal",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.1
+  },
+  "5c9c3c028863dd4fc59d684363d9640735d4d4070aff706b5d22b033ae6c79ef": {
+    "judgments": [
+      {
+        "pPii": 0.06,
+        "piiType": "not_personal",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.11
+  },
+  "e5c47a1db3e82f42ad44b7dfe542f6f4186522648f96953ac692d5f23f5a7b37": {
+    "judgments": [
+      {
+        "pPii": 0.84,
+        "piiType": "person_name",
+        "typeConf": 0.51
+      }
+    ],
+    "pUncovered": 0.26
+  },
+  "55b051fc4f86420caf2e5c8b70cdd9309594b9145395816966c7d212933f0119": {
+    "judgments": [
+      {
+        "pPii": 0.1,
+        "piiType": "not_personal",
+        "typeConf": 0.99
+      }
+    ],
+    "pUncovered": 0.11
+  },
+  "bb29a1a4d722cd079ba3d22ad76c7e4d2012c93630f9bb4db2022a44d5eb347f": {
+    "judgments": [
+      {
+        "pPii": 0.04,
+        "piiType": "not_personal",
+        "typeConf": 0.98
+      }
+    ],
+    "pUncovered": 0.07
+  },
+  "3fe0f4578b495d140dc8f3e236ef9ecee77cbbb3af84216f1ecd32603d8e9d3f": {
+    "judgments": [
+      {
+        "pPii": 0.04,
+        "piiType": "not_personal",
+        "typeConf": 0.99
+      }
+    ],
+    "pUncovered": 0.08
+  },
+  "440707bc72e8e238481656bb89eeceb7e150dfdd448f74b1002ab322efd033da": {
+    "judgments": [
+      {
+        "pPii": 0.06,
+        "piiType": "not_personal",
+        "typeConf": 0.99
+      }
+    ],
+    "pUncovered": 0.11
+  },
+  "c1f92094fa85cb17fb015cf16b99cde9f13951df7fd8c31fe06b275737b94428": {
+    "judgments": [
+      {
+        "pPii": 0.04,
+        "piiType": "not_personal",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.06
+  },
+  "0a4cca826f2bb49cceb201e9b81929826b35980edca4812e59d9c33dd4b599af": {
+    "judgments": [
+      {
+        "pPii": 0.87,
+        "piiType": "person_name",
+        "typeConf": 0.99
+      },
+      {
+        "pPii": 0.89,
+        "piiType": "email",
+        "typeConf": 0.99
+      },
+      {
+        "pPii": 0.11,
+        "piiType": "not_personal",
+        "typeConf": 0.99
+      },
+      {
+        "pPii": 0.94,
+        "piiType": "phone",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.46
+  },
+  "b61e543647524ce4bff425de671b051f10b030cf3a197968f1c0d8570e35b96d": {
+    "judgments": [
+      {
+        "pPii": 0.92,
+        "piiType": "person_name",
+        "typeConf": 1
+      },
+      {
+        "pPii": 0.96,
+        "piiType": "birthday",
+        "typeConf": 1
+      },
+      {
+        "pPii": 0.96,
+        "piiType": "phone",
+        "typeConf": 1
+      },
+      {
+        "pPii": 0.91,
+        "piiType": "address",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.62
+  },
+  "1fec2e9e74a58fecb56c79f55e3136652ec6f5927ee5bc2fac8ea852f8c78b5e": {
+    "judgments": [
+      {
+        "pPii": 0.05,
+        "piiType": "not_personal",
+        "typeConf": 1
+      },
+      {
+        "pPii": 0.87,
+        "piiType": "person_name",
+        "typeConf": 0.99
+      },
+      {
+        "pPii": 0.95,
+        "piiType": "email",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.38
+  },
+  "fe0d8f6a7cae41680ae22e4a44beded4d27cd83c61349c6ebfc0dd6e1a3bbb31": {
+    "judgments": [
+      {
+        "pPii": 0.16,
+        "piiType": "not_personal",
+        "typeConf": 0.5
+      },
+      {
+        "pPii": 0.93,
+        "piiType": "person_name",
+        "typeConf": 1
+      },
+      {
+        "pPii": 0.97,
+        "piiType": "phone",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.35
+  },
+  "92a2b13c5857b37d10cf148923b7bf61db8573b9faf93381396739ef40b4ba23": {
+    "judgments": [
+      {
+        "pPii": 0.87,
+        "piiType": "person_name",
+        "typeConf": 0.97
+      }
+    ],
+    "pUncovered": 0.93
+  },
+  "1a181b5a1d2d6dcbf313e25930cc85445c75f91c0717f6439eb6e1dd296b101a": {
+    "judgments": [
+      {
+        "pPii": 0.84,
+        "piiType": "person_name",
+        "typeConf": 0.99
+      },
+      {
+        "pPii": 0.97,
+        "piiType": "phone",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.2
+  },
+  "2dcc50ca9f691f704124e5c0ce5604d109e7fbf918f3c2cfa696fda81541621f": {
+    "judgments": [
+      {
+        "pPii": 0.85,
+        "piiType": "person_name",
+        "typeConf": 1
+      },
+      {
+        "pPii": 0.96,
+        "piiType": "phone",
+        "typeConf": 1
+      }
+    ],
+    "pUncovered": 0.44
+  },
+  "3758dbc1653477167d3529d06885513733b2772d44926d81bed3e777b2326b75": {
+    "judgments": [
+      {
+        "pPii": 0.88,
+        "piiType": "phone",
+        "typeConf": 0.94
+      },
+      {
+        "pPii": 0.86,
+        "piiType": "person_name",
+        "typeConf": 0.99
+      }
+    ],
+    "pUncovered": 0.46
+  },
+  "07def0439029fdc0e48a89f4412d0c6c69c1fa22fa21218fa4b8ed949da611d4": {
+    "judgments": [],
+    "pUncovered": 0.71
+  },
+  "b391808c4344bbafc09cae36ed5367af51200c090f28984480e78beb42774eb2": {
+    "judgments": [],
+    "pUncovered": 0.85
+  },
+  "5aac0f9be993cbe8af41c97251ec02975a401b1764c73832b1bcc3d72234171b": {
+    "judgments": [],
+    "pUncovered": 0.1
+  },
+  "16379f20e35d905d4d990dfbd6145052463e2a722ab00f38fd3decc54045e572": {
+    "judgments": [],
+    "pUncovered": 0.1
+  },
+  "c33c0ef6a6518511f5014103bc9a2cad0be370ab67a520ddf98d48a243b72423": {
+    "judgments": [],
+    "pUncovered": 0.87
+  },
+  "feb0c8dd21c5f659ae9d3b9e176ddec2f24cf6dc57dd43e9335c76277d981431": {
+    "judgments": [],
+    "pUncovered": 0.55
+  },
+  "6c5ac77ea895604bbca8fb06f68b8475628af838712c0657e2bd0e8d636ef8aa": {
+    "judgments": [],
+    "pUncovered": 0.87
+  },
+  "71dbaad98c28fafcea4b4b1f2b3f1e198b571ec71ee095a41196938f0f2f3a49": {
+    "judgments": [],
+    "pUncovered": 0.08
+  },
+  "7dac45ca0369835c83fc19da2ed0e52afc9b5ee151d9ec84413a97a949381cfa": {
+    "judgments": [],
+    "pUncovered": 0.06
+  },
+  "b8175d63b5e34aff7cca9a4c255300c92472cb612703f13c947d392c2a8e7991": {
+    "judgments": [],
+    "pUncovered": 0.08
+  },
+  "02355b6327cd098dba1cb02fff918a57b2405d5b7fab149d07a45527e82770f3": {
+    "judgments": [],
+    "pUncovered": 0.06
+  }
+}

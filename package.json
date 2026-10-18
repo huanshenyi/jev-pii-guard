@@ -1,0 +1,23 @@
+{
+  "name": "pii-guard",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "demo": "tsx pii_guard.ts",
+    "demo:offline": "tsx pii_guard.ts --offline",
+    "typecheck": "tsc --noEmit",
+    "eval": "tsx eval/evaluate.ts",
+    "eval:offline": "tsx eval/evaluate.ts --offline"
+  },
+  "dependencies": {
+    "@typesafe-ai/sdk": "^0.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
